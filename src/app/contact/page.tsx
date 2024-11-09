@@ -2,7 +2,7 @@ import Link from "next/link";
 export default function Header(){
    return(
      <div>
-       <h1><big>This is a Header page from</big> <strong> Ghulam Muneer Uddin</strong></h1>
+       <h1><big>This is a Contact page from</big> <strong> Ghulam Muneer Uddin</strong></h1>
        <p><span>This is a next.js project</span></p>
        <ul>
       <li><Link href={'/'}> Home </Link></li>
